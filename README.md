@@ -26,3 +26,10 @@ Bu proje, **C#** dili, **ADO.NET** ve **NoSQL** teknolojisi kullanılarak geliş
 2. **Proje Dosyalarını Çalıştırma**:  
    - **VS Code** ile `Program.cs` dosyasını açın.  
    - Terminal kısmından `dotnet run` yazarak programı çalıştırabilirsiniz.
+  
+
+
+## 📷 Program Görselleri 
+
+#### **Programın görsel şöleni çok yakında sizlerle. 😭**
+
