@@ -6,7 +6,7 @@ Bu proje, **C#** dili, **ADO.NET** ve **NoSQL** teknolojisi kullanılarak geliş
 
 - **C# (.NET 9.0)**
 - **NoSQL** (Veritabanı yönetimi için **MongoDB Compass** kullanıldı)
-- **ADO.NET** (Veritabanı işlemleri için)
+- **ADO.NET** 
 
 ## 📋 Proje Özellikleri
 
